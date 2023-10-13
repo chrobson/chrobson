@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## About Me
 
-Hi there! I'm Mateusz Chrobak, working as Cloud Engineer in the Azure Backup & Recovery team @ Microsoft (Vendor at LTIMindtree) based in Poland in the city of dragons. I'm passionate about cyber-security, blockchain technology, football and poker.
+Hi there! I'm Mateusz Chrobak, working as Junior Golang Developer @Vonroll-infratec based in Poland in the city of dragons. I'm passionate about cyber-security, blockchain technology, football and poker.
 
 
 ## Contact Me 📫
