@@ -1,40 +1,41 @@
+# 👋 Hi, I'm Mateusz Chrobak
 
-<!--
-**chrobson/chrobson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Mid-Level Golang Developer** passionate about building robust, scalable backend systems with a strong interest in cyber-security and blockchain technology.
 
-Here are some ideas to get you started:
+📍 Based in Kraków, Poland — the city of dragons  
+💼 Currently working at **Vonroll-infratec**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
 
+I specialize in developing and maintaining high-performance backend systems using **Go**, with a focus on observability, reliability, and clean architecture. I thrive on designing solutions that integrate various technologies to solve complex business challenges.
 
-# Mateusz Chrobak 
+## 🛠️ Technical Stack
 
-## About Me
+### Core Development
+- **Primary Language:** Go (Golang)
+- **Additional Languages:** Python, C#
 
-Hi there! I'm Mateusz Chrobak, working as Junior Golang Developer @Vonroll-infratec based in Poland in the city of dragons. I'm passionate about cyber-security, blockchain technology, football and poker.
+### Data & Storage
+- **Relational Databases:** PostgreSQL, MySQL, PL/SQL
+- **NoSQL:** MongoDB
+- **Query Languages:** Kusto Query Language (KQL)
 
+### DevOps & Cloud-Native Tools
+- **Observability Stack:** OpenTelemetry, Grafana, Prometheus, Tempo, Loki
+- **Containerization:** Docker
+- **Infrastructure as Code:** Terraform
 
-## Contact Me 📫
+## 💡 Interests & Passions
 
-If you'd like to get in touch, feel free to reach out to me via linkedin - https://www.linkedin.com/in/matchrobak/. I'd love to chat with you about Golang or collaborate on a project together!
+Beyond coding, I'm actively exploring:
 
-## My Skills ⚡
+- 🔐 **Cyber-security** — Security-first development and threat modeling
+- 🔗 **Blockchain Technology** — Decentralized systems and smart contracts
+- ⚽ **Football** — Following the beautiful game
+- ♦️ **Poker** — Strategic thinking and probability
 
-- Golang
-- Python
-- C#
-- Kusto Query (KQL)
-- SQL, PL/SQL, MYSQL, POSTGRES
-- MongoDB
-- Terraform
-- Docker
+## 📬 Let's Connect
 
-Thanks for stopping by, and I look forward to connecting with you soon!
+I'm always eager to connect with fellow developers to discuss ideas, collaborate on open-source projects, or share insights on the latest in tech.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/matchrobak/)
